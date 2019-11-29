@@ -1,0 +1,4 @@
+Results url-https://eyes.applitools.com/app/test-results/00000251827283811281/?accountId=BKwCkcVMmUWSIDk-w9t4fA~~
+
+Test - Tradional tests using selenium and testng
+AppliTest1-Test using applitools and selenium

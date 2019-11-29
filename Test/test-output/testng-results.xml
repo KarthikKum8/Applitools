@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10931" started-at="2019-11-29T06:22:04Z" finished-at="2019-11-29T06:22:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10931" started-at="2019-11-29T06:22:04Z" finished-at="2019-11-29T06:22:15Z">
+      <class name="Appli_Tradional.Test.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Appli_Tradional.Test.NewTest@5a45133e]" name="beforeTest" is-config="true" duration-ms="4074" started-at="2019-11-29T06:22:04Z" finished-at="2019-11-29T06:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Appli_Tradional.Test.NewTest@5a45133e]" name="Login" duration-ms="3415" started-at="2019-11-29T06:22:08Z" finished-at="2019-11-29T06:22:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="clickTablestatus()[pri:0, instance:Appli_Tradional.Test.NewTest@5a45133e]" name="clickTablestatus" duration-ms="368" started-at="2019-11-29T06:22:11Z" finished-at="2019-11-29T06:22:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTablestatus -->
+        <test-method status="PASS" signature="clickcompareExpense()[pri:0, instance:Appli_Tradional.Test.NewTest@5a45133e]" name="clickcompareExpense" duration-ms="1011" started-at="2019-11-29T06:22:11Z" finished-at="2019-11-29T06:22:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickcompareExpense -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Appli_Tradional.Test.NewTest@5a45133e]" name="afterTest" is-config="true" duration-ms="2013" started-at="2019-11-29T06:22:13Z" finished-at="2019-11-29T06:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Appli_Tradional.Test.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
